@@ -5,7 +5,7 @@
 - Mata Kuliah: Pemrograman Web 2
 
 
-# E-Inventory Mobil — Sistem Manajemen Inventaris Kendaraan
+# E-Inventory Mobil Sistem Manajemen Inventaris Kendaraan
 
 ## Deskripsi Proyek
 Proyek ini merupakan Tugas Ujian Akhir Semester (UAS) Mata Kuliah **Pemrograman Web 2**.
