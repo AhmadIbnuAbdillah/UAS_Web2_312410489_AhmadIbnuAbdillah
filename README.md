@@ -32,7 +32,7 @@ benar-benar terpisah dan saling berkomunikasi melalui HTTP request berformat JSO
 ---
 
 ## Skema Relasi Tabel Database
->  **[Lampirkan screenshot skema relasi tabel dari Database Designer phpMyAdmin di sini]**
+![img](https://github.com/AhmadIbnuAbdillah/img-uas/blob/6729f77f060e13ab0e1be15fc14632b18b7c418c/Screenshot%202026-06-25%20000234.png)
 
 Struktur tabel:
 - `users` — data akun admin (username, password, auth_token)
@@ -43,17 +43,19 @@ Struktur tabel:
 ---
 
 ## Uji Coba Proteksi Token (Error 401)
-> **[Lampirkan screenshot uji coba request POST/PUT/DELETE tanpa token via Postman yang menghasilkan response Error 401 Unauthorized]**
+![img](https://github.com/AhmadIbnuAbdillah/img-uas/blob/62d5c0cbe3caefac5e93c16ba1d0f9bb0b1c9054/Screenshot%202026-06-25%20192242.png)
 
 ---
 
 ## Tampilan Antarmuka Aplikasi
-> **[Lampirkan screenshot: halaman Login, halaman Dashboard Admin, modal Tambah/Edit Data, dan tabel data bertenaga TailwindCSS]**
+![img](https://github.com/AhmadIbnuAbdillah/img-uas/blob/6729f77f060e13ab0e1be15fc14632b18b7c418c/Screenshot%202026-06-25%20190311.png)
+![img](https://github.com/AhmadIbnuAbdillah/img-uas/blob/6729f77f060e13ab0e1be15fc14632b18b7c418c/Screenshot%202026-06-25%20190321.png)
+![img](https://github.com/AhmadIbnuAbdillah/img-uas/blob/6729f77f060e13ab0e1be15fc14632b18b7c418c/Screenshot%202026-06-25%20190326.png)
 
 ---
 
 ## Link Demo & Video Presentasi
-- Link Video Presentasi YouTube: *(isi link YouTube di sini)*
+- Link Video Presentasi YouTube: (https://youtu.be/MpBB1tPi78g?si=Lfxu38nat-5GNzf6)
 
 ---
 
